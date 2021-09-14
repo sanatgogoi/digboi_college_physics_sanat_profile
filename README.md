@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Department Of Physics
 
 You can use the [editor on GitHub](https://github.com/sanatgogoi/digboi_college_physics_sanat_profile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
