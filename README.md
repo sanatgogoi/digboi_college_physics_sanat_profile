@@ -1,6 +1,7 @@
 ## Welcome to Department Of Physics
+## Digboi College, Digboi-786171 Assam
 
-You can use the [editor on GitHub](https://github.com/sanatgogoi/digboi_college_physics_sanat_profile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am Sanat Kumar Gogoi. I am working as a Assitant Professor, Department of Physics at Digboi College, Digboi, Assam. This is one of the pioneer educational institution located at the Eastern region of India offering undergraduate and post graduate degree in Science, Arts and Commerce stream. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
