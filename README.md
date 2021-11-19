@@ -1,7 +1,7 @@
 ## Welcome to Department Of Physics
 ## Digboi College, Digboi-786171 Assam
 
-I am Sanat Kumar Gogoi. I am working as a Assitant Professor, Department of Physics at Digboi College, Digboi, Assam. This is one of the pioneer educational institution located at the Eastern region of India offering undergraduate and post graduate degree in Science, Arts and Commerce stream. 
+I am Sanat Kumar Gogoi, working as an Assistant Professor at, Department of Physics at Digboi College, Digboi, Assam. This is one of the pioneer educational institutions located in the Eastern region of India, offering courses at undergraduate and post-graduate levels in the Science, Arts, and Commerce stream. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
