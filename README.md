@@ -3,7 +3,7 @@
 ![](https://github.com/sanatgogoi/digboi_college_physics_sanat_profile/blob/main/doc/image/IMG_20181216_151920.jpg)
 
 I am Sanat Kumar Gogoi, working as an Assistant Professor at, Department of Physics at Digboi College, Digboi, Assam. This is one of the pioneer educational institutions located in the Eastern region of India, offering courses at undergraduate and post-graduate levels in the Science, Arts, and Commerce stream. 
-
+<img src="/doc/image/IMG_20181216_151920.jpg" class="img-responsive" alt=""> </div>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
